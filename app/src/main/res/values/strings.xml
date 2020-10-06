@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">vsgalatihanstorage</string>
+    <string name="BuatFile">BuatFile</string>
+    <string name="UbahFile">UbahFile</string>
+    <string name="BacaFile">BacaFile</string>
+    <string name="HapusFile">HapusFile</string>
+    <string name="hasil_baca_file">hasil</string>
+</resources>
